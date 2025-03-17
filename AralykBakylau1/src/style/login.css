@@ -1,0 +1,19 @@
+
+.loginBox{
+    background-color: blue;
+    color: white;
+    width: 180px;
+}
+.loginBox button h4{
+    padding: 5px;
+    text-align: center;
+}
+.registrBox{
+    background-color: blue;
+    color: white;
+    width: 180px;
+}
+.registrBox h4{
+    padding: 5px;
+    text-align: center;
+}
