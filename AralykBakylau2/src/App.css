@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.authentication{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    border: 1px solid black;
+}
+.form{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+
+
+}
