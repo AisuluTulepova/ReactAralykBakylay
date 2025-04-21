@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.containerList{
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  gap:10px;background-color: rgb(247, 251, 251);
+  
+}
+h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.box{
+  padding: 20px;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  width: 370px;
+  background-color:rgb(239, 239, 247);
+
+}
+.Add{
+  background-color: rgb(51, 183, 51);
+  border: none;
+  padding: 10px;
+}
