@@ -47,7 +47,7 @@ export default function FormAI() {
           placeholder='Сұрағыңызды жазыңыз....'
           onChange={(e) => setUserInput(e.target.value)}
         />
-        <button type='submit' className='bg-blue-500  text-white border-none p-2 rounded px-7'>Жіберу</button>
+        <button type='submit' className='bg-blue-500  text-white border-none p-2 rounded px-7'>Жберу</button>
       </form>
 
       <div>
